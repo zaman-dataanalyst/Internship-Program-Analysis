@@ -29,24 +29,24 @@ The objective is to extract **actionable insights** that help organizations impr
 
 Internship-Program-Analysis/
 │
-├── Data/
-│   └── Internship_Program_Data.xlsx
+├── 📂 Data/
+│   └── 📄 Internship_Program_Data.xlsx
 │
-├── PowerBI/
-│   └── Internship_Program_Performance_Analysis.pbix
+├── 📂 PowerBI/
+│   └── 📊 Internship_Program_Performance_Analysis.pbix
 │
-├── Screenshots/
-│   ├── 01_Dashboard_Overview.png
-│   ├── 02_KPI_Cards.png
-│   ├── 03_Completion_vs_Dropout.png
-│   ├── 04_Department_Wise_Completion.png
-│   ├── 05_Year_Wise_Trend.png
-│   ├── 06_Duration_vs_Status.png
-│   ├── 07_Mentor_Interaction_Impact.png
-│   ├── 08_Filters_Panel.png
-│   └── 09_Filtered_View_Sample.png
+├── 📂 Screenshots/
+│   ├── 🖼️ 01_dashboard_overview.PNG
+│   ├── 🖼️ 02_kpi_summary.PNG
+│   ├── 🖼️ 03_completion_vs_dropout.PNG
+│   ├── 🖼️ 04_department_wise_completion.PNG
+│   ├── 🖼️ 05_year_wise_trend.PNG
+│   ├── 🖼️ 06_duration_vs_status.PNG
+│   ├── 🖼️ 07_mentor_interaction_impact.PNG
+│   ├── 🖼️ 08_filters_interactivity.PNG
+│   └── 🖼️ 09_final_insights_recommendations.PNG
 │
-└── README.md
+└── 📄 README.md
 
 ---
 
@@ -97,24 +97,6 @@ Internship-Program-Analysis/
 
 ---
 
-## 📂 Power BI Dashboard File
-
-➡️ **Download the Power BI file:**  
-[Internship_Program_Performance_Analysis.pbix](PowerBI/Internship_Program_Performance_Analysis.pbix)
-
----
-
-## 👤 Author
-
-**Hafiz Zaman Yaseen**  
-Aspiring Data Analyst | Power BI | SQL | Excel  
-
-📧 Email: *(add your professional email here)*  
-🔗 GitHub: https://github.com/zaman-dataanalyst  
-🔗 LinkedIn: *(optional — recommended)*  
-
----
-
 ## ⭐ Notes
 
 - All visuals are **filter-responsive**
@@ -141,10 +123,11 @@ Aspiring Data Analyst | Power BI | SQL | Excel
 ---
 
 ## 📎 Power BI File
+
 You can access the complete interactive dashboard here:
 
 👉 **Power BI Dashboard File:**  
-`PowerBI/Internship_Program_Performance_Analysis.pbix`
+[Internship_Program_Performance_Analysis.pbix](PowerBI/Internship_Program_Performance_Analysis.pbix)
 
 ---
 
