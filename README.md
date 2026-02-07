@@ -2,9 +2,13 @@
 
 ## 📌 Project Overview
 
-This project analyzes internship program data to identify **completion trends**, **dropout behavior**, **departmental performance**, and **mentor interaction impact** using an interactive **Power BI dashboard**.
+This project analyzes internship program data to identify **completion trends**, **dropout behavior**, 
+**departmental performance**, **year-wise progress**, **internship duration impact**, and 
+**mentor interaction influence** using an interactive **Power BI dashboard**.
 
-The objective is to extract **actionable insights** that help organizations improve **internship design**, **mentor engagement**, and **intern retention outcomes**.
+The analysis enables stakeholders to evaluate **intern retention patterns over time**, compare performance 
+**across departments**, assess the effect of **internship duration**, and understand how **mentor engagement** 
+impacts successful internship completion.
 
 ---
 
