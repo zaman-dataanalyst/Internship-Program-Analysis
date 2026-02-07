@@ -12,7 +12,7 @@ impacts successful internship completion.
 
 ---
 
-##🧾 Dataset Note  
+## 🧾 Dataset Note  
 
 The analysis is based on a dataset of approximately **5,000 internship records**, ensuring that insights are derived from a sufficiently large and realistic data sample.
 
