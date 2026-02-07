@@ -131,6 +131,14 @@ You can access the complete interactive dashboard here:
 
 ---
 
+## 🌐 Live Dashboard (Power BI Service)
+
+The dashboard has been published to Power BI Service for internal workspace access.
+
+🔒 Due to organizational access restrictions, the live link requires Microsoft workplace authentication.
+
+📎 The complete `.pbix` file is provided in this repository for full review.
+
 ## 👤 Author
 
 **Hafiz Zaman Yaseen**  
