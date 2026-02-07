@@ -1,29 +1,28 @@
-📊 Internship Program Analysis
-📌 Project Overview
+# 📊 Internship Program Analysis
 
-This project analyzes internship program data to identify completion trends, dropout behavior, departmental performance, and mentor interaction impact using an interactive Power BI dashboard.
+## 📌 Project Overview
+This project analyzes internship program data to identify **completion trends**, **dropout behavior**, **departmental performance**, and **mentor interaction impact** using an interactive **Power BI dashboard**.
 
-The objective is to extract actionable insights that help organizations improve internship design and retention outcomes.
+The objective is to extract **actionable insights** that help organizations improve **internship design**, **mentor engagement**, and **intern retention outcomes**.
 
-🧠 Business Questions Addressed
+---
 
-Which departments have the highest internship completion?
+## ❓ Business Questions Addressed
+- Which departments have the highest internship completion rates?
+- How does internship duration impact dropout behavior?
+- What role does mentor interaction play in intern success?
+- Are insights consistent across different filters and cohorts?
 
-How does internship duration impact dropout behavior?
+---
 
-What role does mentor interaction play in intern success?
+## 🛠️ Tools & Technologies
+- **Power BI** — Data modeling, DAX measures, and interactive dashboard
+- **Microsoft Excel** — Source dataset
+- **GitHub** — Version control and project documentation
 
-Are insights consistent across different filters and cohorts?
+---
 
-🛠 Tools & Technologies
-
-Power BI – Data modeling & interactive dashboard
-
-Excel – Source dataset
-
-GitHub – Version control & documentation
-
-📂 Repository Structure
+## 📂 Project Structure
 Internship-Program-Analysis/
 │
 ├── Data/
@@ -37,7 +36,7 @@ Internship-Program-Analysis/
 │   ├── 02_KPI_Cards.png
 │   ├── 03_Completion_vs_Dropout.png
 │   ├── 04_Department_Wise_Completion.png
-│   ├── 05_Year_Wise_Completion_Trend.png
+│   ├── 05_Year_Wise_Trend.png
 │   ├── 06_Duration_vs_Status.png
 │   ├── 07_Mentor_Interaction_Impact.png
 │   ├── 08_Filters_Panel.png
@@ -45,108 +44,86 @@ Internship-Program-Analysis/
 │
 └── README.md
 
-📊 Dashboard Screenshots (Visual Walkthrough)
-1️⃣ Full Dashboard Overview
+---
 
-Shows complete layout with KPIs, charts, filters, and insights panel.
+## 📸 Dashboard Screenshots (Visual Walkthrough)
 
+### 1️⃣ Full Dashboard Overview
 ![Dashboard Overview](Screenshots/01_Dashboard_Overview.png)
 
+---
 
-2️⃣ KPI Summary Cards
-
-Key performance indicators at a glance.
-
+### 2️⃣ KPI Summary Cards
 ![KPI Cards](Screenshots/02_KPI_Cards.png)
 
+---
 
-3️⃣ Completion vs Dropout
-
-Comparison of completed and dropped internships.
-
+### 3️⃣ Completion vs Dropout Analysis
 ![Completion vs Dropout](Screenshots/03_Completion_vs_Dropout.png)
 
+---
 
-4️⃣ Department-wise Completion
-
-Highlights departments with stronger completion outcomes.
-
+### 4️⃣ Department-wise Completion
 ![Department-wise Completion](Screenshots/04_Department_Wise_Completion.png)
 
+---
 
-5️⃣ Year-wise Completion Trend
-
-Tracks completion behavior over time.
-
+### 5️⃣ Year-wise Completion Trend
 ![Year-wise Completion Trend](Screenshots/05_Year_Wise_Completion_Trend.png)
 
+---
 
-6️⃣ Duration vs Status
-
-Shows how internship length affects completion and dropout.
-
+### 6️⃣ Internship Duration vs Status
 ![Duration vs Status](Screenshots/06_Duration_vs_Status.png)
 
+---
 
-7️⃣ Mentor Interaction Impact
-
-Demonstrates the effect of mentor engagement levels.
-
+### 7️⃣ Mentor Interaction Impact
 ![Mentor Interaction Impact](Screenshots/07_Mentor_Interaction_Impact.png)
 
+---
 
-8️⃣ Filters Panel
-
-Interactive slicers for focused analysis.
-
+### 8️⃣ Interactive Filters Panel
 ![Filters Panel](Screenshots/08_Filters_Panel.png)
 
+---
 
-9️⃣ Sample Filtered View
-
-Single-entity selection to demonstrate dashboard robustness.
-
+### 9️⃣ Sample Filtered View
 ![Filtered View](Screenshots/09_Filtered_View_Sample.png)
 
+---
 
-🔍 Key Insights
+## 🔍 Key Insights
+- Internship completion rates are significantly higher where **mentor interaction is strong**.
+- **Short-duration internships (1–2 months)** show higher dropout compared to longer programs.
+- Overall completion performance improves steadily across years.
+- **Data and Business departments** demonstrate relatively stronger intern retention.
 
-Internship completion is significantly higher with strong mentor interaction.
+---
 
-Short-duration internships show relatively higher dropout risk.
+## ✅ Recommendations
+- Strengthen mentor engagement, especially for short-duration internships.
+- Design internships with a **minimum duration of three months** to reduce dropouts.
+- Replicate best practices from high-performing departments across all teams.
+- Use early performance and attendance indicators to identify **at-risk interns**.
 
-Completion performance remains stable across years.
+---
 
-Data and Business departments demonstrate stronger retention.
+## 📎 Power BI File
+You can access the complete interactive dashboard here:
 
-🎯 Recommendations
+👉 **Power BI Dashboard File:**  
+`PowerBI/Internship_Program_Performance_Analysis.pbix`
 
-Increase mentor engagement, especially for shorter internships.
+---
 
-Design programs with a minimum duration of three months.
+## 👤 Author
 
-Replicate best practices from high-performing departments.
+**Hafiz Zaman Yaseen**  
+Aspiring Data Analyst | Data Visualization & Insights  
+Excel • SQL • Power BI • Python  
 
-Use early indicators to identify at-risk interns.
+📧 Email: zamanyaseen.71@gmail.com  
+🔗 GitHub: https://github.com/zaman-dataanalyst  
+🔗 LinkedIn: https://www.linkedin.com/in/zaman-dataanalyst/
 
-🔗 Power BI Dashboard File
-
-👉 Access the Power BI file here:
-
-PowerBI/Internship_Program_Performance_Analysis.pbix
-
-
-(Open in Power BI Desktop for full interactivity)
-
-📌 Notes
-
-Insights are directionally consistent across filters.
-
-Filters are for exploratory analysis, not insight manipulation.
-
-Sorting, ordering, and measures follow industry best practices.
-
-👤 Author
-
-Zaman
-Aspiring Data Analyst | Power BI | Data Visualization
