@@ -12,6 +12,12 @@ impacts successful internship completion.
 
 ---
 
+##🧾 Dataset Note  
+
+The analysis is based on a dataset of approximately **5,000 internship records**, ensuring that insights are derived from a sufficiently large and realistic data sample.
+
+---
+
 ## ❓ Business Questions Addressed
 
 - Which departments have the highest internship completion rates?
