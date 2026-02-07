@@ -26,7 +26,7 @@ The objective is to extract **actionable insights** that help organizations impr
 ---
 
 ## 📂 Project Structure
-
+```
 Internship-Program-Analysis/
 │
 ├── 📂 Data/
@@ -47,7 +47,7 @@ Internship-Program-Analysis/
 │   └── 🖼️ 09_final_insights_recommendations.PNG
 │
 └── 📄 README.md
-
+```
 ---
 
 ## 🖼 Dashboard Screenshots (Visual Walkthrough)
