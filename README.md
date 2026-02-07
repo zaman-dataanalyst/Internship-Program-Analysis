@@ -1,4 +1,4 @@
-### 📊 Internship Program Analysis
+# 📊 Internship Program Analysis
 
 ## 📌 Project Overview
 
