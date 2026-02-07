@@ -139,6 +139,8 @@ The dashboard has been published to Power BI Service for internal workspace acce
 
 📎 The complete `.pbix` file is provided in this repository for full review.
 
+---
+
 ## 👤 Author
 
 **Hafiz Zaman Yaseen**  
