@@ -1,6 +1,7 @@
-# 📊 Internship Program Analysis
+### 📊 Internship Program Analysis
 
 ## 📌 Project Overview
+
 This project analyzes internship program data to identify **completion trends**, **dropout behavior**, **departmental performance**, and **mentor interaction impact** using an interactive **Power BI dashboard**.
 
 The objective is to extract **actionable insights** that help organizations improve **internship design**, **mentor engagement**, and **intern retention outcomes**.
@@ -8,6 +9,7 @@ The objective is to extract **actionable insights** that help organizations impr
 ---
 
 ## ❓ Business Questions Addressed
+
 - Which departments have the highest internship completion rates?
 - How does internship duration impact dropout behavior?
 - What role does mentor interaction play in intern success?
@@ -16,6 +18,7 @@ The objective is to extract **actionable insights** that help organizations impr
 ---
 
 ## 🛠️ Tools & Technologies
+
 - **Power BI** — Data modeling, DAX measures, and interactive dashboard
 - **Microsoft Excel** — Source dataset
 - **GitHub** — Version control and project documentation
@@ -23,6 +26,7 @@ The objective is to extract **actionable insights** that help organizations impr
 ---
 
 ## 📂 Project Structure
+
 Internship-Program-Analysis/
 │
 ├── Data/
@@ -46,50 +50,77 @@ Internship-Program-Analysis/
 
 ---
 
-## 📸 Dashboard Screenshots (Visual Walkthrough)
+## 🖼 Dashboard Screenshots (Visual Walkthrough)
 
 ### 1️⃣ Full Dashboard Overview
-![Dashboard Overview](Screenshots/01_Dashboard_Overview.png)
+![Dashboard Overview](Screenshots/01_dashboard_overview.PNG)
 
 ---
 
 ### 2️⃣ KPI Summary Cards
-![KPI Cards](Screenshots/02_KPI_Cards.png)
+![KPI Summary](Screenshots/02_kpi_summary.PNG)
 
 ---
 
 ### 3️⃣ Completion vs Dropout Analysis
-![Completion vs Dropout](Screenshots/03_Completion_vs_Dropout.png)
+![Completion vs Dropout](Screenshots/03_completion_vs_dropout.PNG)
 
 ---
 
 ### 4️⃣ Department-wise Completion
-![Department-wise Completion](Screenshots/04_Department_Wise_Completion.png)
+![Department-wise Completion](Screenshots/04_department_wise_completion.PNG)
 
 ---
 
 ### 5️⃣ Year-wise Completion Trend
-![Year-wise Completion Trend](Screenshots/05_Year_Wise_Completion_Trend.png)
+![Year-wise Trend](Screenshots/05_year_wise_trend.PNG)
 
 ---
 
-### 6️⃣ Internship Duration vs Status
-![Duration vs Status](Screenshots/06_Duration_vs_Status.png)
+### 6️⃣ Duration vs Status
+![Duration vs Status](Screenshots/06_duration_vs_status.PNG)
 
 ---
 
 ### 7️⃣ Mentor Interaction Impact
-![Mentor Interaction Impact](Screenshots/07_Mentor_Interaction_Impact.png)
+![Mentor Interaction Impact](Screenshots/07_mentor_interaction_impact.PNG)
 
 ---
 
-### 8️⃣ Interactive Filters Panel
-![Filters Panel](Screenshots/08_Filters_Panel.png)
+### 8️⃣ Filters & Interactivity
+![Filters Interactivity](Screenshots/08_filters_interactivity.PNG)
 
 ---
 
-### 9️⃣ Sample Filtered View
-![Filtered View](Screenshots/09_Filtered_View_Sample.png)
+### 9️⃣ Key Insights & Recommendations
+![Final Insights](Screenshots/09_final_insights_recommendations.PNG)
+
+---
+
+## 📂 Power BI Dashboard File
+
+➡️ **Download the Power BI file:**  
+[Internship_Program_Performance_Analysis.pbix](PowerBI/Internship_Program_Performance_Analysis.pbix)
+
+---
+
+## 👤 Author
+
+**Hafiz Zaman Yaseen**  
+Aspiring Data Analyst | Power BI | SQL | Excel  
+
+📧 Email: *(add your professional email here)*  
+🔗 GitHub: https://github.com/zaman-dataanalyst  
+🔗 LinkedIn: *(optional — recommended)*  
+
+---
+
+## ⭐ Notes
+
+- All visuals are **filter-responsive**
+- Insights remain **logically consistent** across slicer combinations
+- Designed following **industry-standard dashboard practices**
+
 
 ---
 
