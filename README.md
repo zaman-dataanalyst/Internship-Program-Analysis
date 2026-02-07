@@ -48,6 +48,7 @@ Internship-Program-Analysis/
 │
 └── 📄 README.md
 ```
+
 ---
 
 ## 🖼 Dashboard Screenshots (Visual Walkthrough)
@@ -92,6 +93,7 @@ Internship-Program-Analysis/
 
 ---
 
+
 ### 9️⃣ Key Insights & Recommendations
 ![Final Insights](Screenshots/09_final_insights_recommendations.PNG)
 
@@ -102,7 +104,6 @@ Internship-Program-Analysis/
 - All visuals are **filter-responsive**
 - Insights remain **logically consistent** across slicer combinations
 - Designed following **industry-standard dashboard practices**
-
 
 ---
 
