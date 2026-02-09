@@ -29,9 +29,9 @@ The analysis is based on a dataset of approximately **5,000 internship records**
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** — Data modeling, DAX measures, and interactive dashboard
-- **Microsoft Excel** — Source dataset
-- **GitHub** — Version control and project documentation
+- Power BI — Interactive Dashboarding and DAX implementation for KPIs.
+- Microsoft Excel — Source dataset management.
+- GitHub — Project documentation and portfolio hosting.
 
 ---
 
